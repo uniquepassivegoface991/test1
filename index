@@ -13,9 +13,10 @@
   <body>
   
     <div id="img1"></div>
+    
     <div id="container">
-    <div id="nav"></div>
-    <div id="content"></div>
+      <div id="nav"></div>
+      <div id="content"></div>
     </div>
     
   
