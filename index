@@ -12,8 +12,12 @@
   
   <body>
   
+    <div id="img1"></div>
+    <div id="container">
     <div id="nav"></div>
-    <div id=""
+    <div id="content"></div>
+    </div>
+    
   
   </body>
   
