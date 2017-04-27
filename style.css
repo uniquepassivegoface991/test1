@@ -1,9 +1,12 @@
 body{
   background-color: #dae2ed;
 }
+#el1{
+  font-size:   
+}
 #el2{
   display:  none;  
   position: fixed;
-  vertical-align: middle;
-  align:  center;
+  top:  50%;
+  left: 50%;
 }
