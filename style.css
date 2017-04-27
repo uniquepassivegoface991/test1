@@ -3,4 +3,7 @@ body{
 }
 #el2{
   display:  none;  
+  position: fixed;
+  vertical-align: middle;
+  align:  center;
 }
