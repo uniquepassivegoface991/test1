@@ -1,7 +1,7 @@
 "use strict";
 $(document).ready(function(){
-  var image = document.getElementById("el2");
- /* var imgWidth = $("image").width();
+ /* var image = document.getElementById("el2");
+  var imgWidth = $("image").width();
   var imgHeight = $("image").height();
   var bodyWidth = $("document").width();
   var bodyHeight = $("document").height();
