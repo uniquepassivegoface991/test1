@@ -8,7 +8,7 @@ $(document).ready(function(){
   
   $("el2").css("margin-top", bodyHeight/2-imgHeight);
   $("el2").css("margin-left", bodyWidth/2-imgWidth);
-  
+  alert("Co  ci jest?");
   $("#el1").click(function(){
     $(this).hide();
     $("#el2").show();
