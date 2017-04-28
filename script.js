@@ -4,8 +4,8 @@ $(document).ready(function(){
   var imgWidth = image.ClientWidth;
   var imgHeight = image.ClientHeight;
   
-  $("el2").css("top", -moz-calc(50%-imgHeight));
-  $("el2").css("left", -moz-calc(50%-imgWidth));
+  $("el2").css("top", 50%-imgHeight);
+  $("el2").css("left", 50%-imgWidth);
   
   $("#el1").click(function(){
     $(this).hide();
