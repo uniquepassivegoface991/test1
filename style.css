@@ -7,4 +7,6 @@ body{
 #el2{
   display:  none;
   position: absolute;
+  margin-top:  45%;
+  margin-left:  45%;
 }
