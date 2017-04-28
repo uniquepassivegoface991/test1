@@ -11,6 +11,6 @@ $(document).ready(function(){
   $("#el1").click(function(){
     $(this).hide();
     $("#el2").show();
-     /* alert("#el2"); */
+    alert(#el2);
   });
 });
