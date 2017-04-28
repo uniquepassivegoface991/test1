@@ -6,6 +6,6 @@ body{
 }
 #el2{
   display:  none;
-  position: fixed;
-  align:  middle;
+  top:  50%;
+  left:  50%;
 }
