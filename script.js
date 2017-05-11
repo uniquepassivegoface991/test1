@@ -10,6 +10,7 @@ $(document).ready(function(){
   $("el2").css("margin-left", bodyWidth/2-imgWidth); */
   $("#clickMe").click(function(){
     $(this).hide();
+   alert("noelo");
     setTimeout($("#v1").show(0);, 500);
     setTimeout($("#v2").show(0);, 500);
     setTimeout($("#v3").show(0);, 500);
