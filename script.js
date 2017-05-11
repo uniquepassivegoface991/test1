@@ -10,9 +10,8 @@ $(document).ready(function(){
   $("el2").css("margin-left", bodyWidth/2-imgWidth); */
   $("#clickMe").click(function(){
     $(this).hide();
-   alert("noelo");
-    $("#v1").show(0);
-    $("#v2").show(0);
-    $("#v3").show(0);
+    $("#v1").show(500);
+    $("#v2").show(500);
+    $("#v3").show(500);
   });
 });
