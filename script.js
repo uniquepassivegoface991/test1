@@ -10,6 +10,8 @@ $(document).ready(function(){
   $("el2").css("margin-left", bodyWidth/2-imgWidth); */
   $("#clickMe").click(function(){
     $(this).hide();
-    $(".virusAlert").show();
+    $("#v1").show(500);
+    $("#v2").show(500);
+    $("#v3").show(500);
   });
 });
