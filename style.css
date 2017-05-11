@@ -6,9 +6,19 @@ body{
   text-align: center;
   font-size:  20px;
 }
-#el2{
+.virusAlert{
   display:  none;
   position: absolute;
+}
+#v1{
+  margin-top:  19%;
+  margin-left:  34%;  
+}
+#v2{
   margin-top:  20%;
-  margin-left:  35%;
+  margin-left:  35%;  
+}
+#v3{
+  margin-top:  21%;
+  margin-left:  36%;  
 }
