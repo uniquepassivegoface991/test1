@@ -11,8 +11,8 @@ $(document).ready(function(){
   $("#clickMe").click(function(){
     $(this).hide();
    alert("noelo");
-    setTimeout($("#v1").show(0);, 500);
-    setTimeout($("#v2").show(0);, 500);
-    setTimeout($("#v3").show(0);, 500);
+    $("#v1").show(0);
+    $("#v2").show(0);
+    $("#v3").show(0);
   });
 });
