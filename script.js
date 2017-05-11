@@ -10,8 +10,8 @@ $(document).ready(function(){
   $("el2").css("margin-left", bodyWidth/2-imgWidth); */
   $("#clickMe").click(function(){
     $(this).hide();
-    $("#v1").delay(500).show();
-    $("#v2").delay(500).show();
-    $("#v3").delay(500).show();
+    $("#v1").show();
+    $("#v2").show();
+    $("#v3").show();
   });
 });
